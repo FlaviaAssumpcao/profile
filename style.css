@@ -44,7 +44,7 @@ p {
   padding: 50px 50px;
   width: 500px;
   box-shadow: 5px 5px 5px rgb(243, 221, 172);
-  border-radius: 10px;
+  border-radius: 20px;
 }
 .img-circle {
   border-radius: 100px;
